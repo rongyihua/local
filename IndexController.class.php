@@ -34,4 +34,9 @@ class IndexController extends Controller {
     public function ryh(){
         echo 'ryh';
     }
+	
+	public function ryh2(){
+		echo 'ryh2';
+	}
+	
 }
