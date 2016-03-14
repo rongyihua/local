@@ -4,4 +4,6 @@
 hello everyone!
 
 
-hello world£¡
+hello worldÂ£!
+
+hello Bear!
